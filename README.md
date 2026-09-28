@@ -56,7 +56,7 @@ Rscript analysis/01_atlas_and_annotation/build_suppfigure2_annotation_stability.
 
 ## Provenance
 
-The page-indexed archive was derived from the author's `Github上传.pdf`
-(192 pages, supplied 2026-09-28). Curated scripts were copied from the
+The page-indexed archive was derived from the author's 192-page PDF
+(supplied 2026-09-28). Curated scripts were copied from the
 author's current submission-code package and corresponding analysis server
 files. No PDF or image is committed to this repository.
