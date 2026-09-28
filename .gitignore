@@ -1,0 +1,33 @@
+# Data and analysis objects
+*.rds
+*.RData
+*.rda
+*.h5
+*.h5ad
+*.loom
+*.mtx
+*.fastq
+*.fastq.gz
+*.csv
+*.tsv
+*.xlsx
+
+# Rendered figures and documents
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.svg
+*.docx
+
+# Local and generated files
+__pycache__/
+*.pyc
+.Rhistory
+.Rproj.user/
+.DS_Store
+output/
+outputs/
+results/
