@@ -14,10 +14,11 @@ Seurat objects, source tables, rendered figures, or credentials.
 | `analysis/03_pseudotime_BEAM` | Epidermal extraction, Monocle2 sensitivity analyses, trajectory, BEAM, and enrichment |
 | `analysis/04_cell_communication` | Wheat ligand-receptor/CellChat analysis and communication figures |
 | `analysis/05_protoplasting` | Protoplasting-impact analysis and plotting |
-| `tools` | Syntax-check helper |
 
 ## Environments and inputs
 
+- The observed `scrna` software and package versions are listed in
+  [`environment/README.md`](environment/README.md).
 - `scrna`: Seurat, annotation, regulatory-network inputs, and CellChat.
 - `monocle2`: trajectory and BEAM.
 - Stochastic finalized workflows use seed 54 where applicable.
